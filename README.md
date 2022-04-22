@@ -18,3 +18,8 @@
 ``` sh
   npm install --save react-router-dom
 ```
+
+## 安装配置Axios
+``` sh
+    npm install axios
+```
