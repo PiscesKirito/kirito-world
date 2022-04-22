@@ -1,7 +1,15 @@
 # kirito-world #
 
 ## 初始化项目 ##
-[CMD] npx create-react-app <project-name> --template redux-typescript
-
+``` sh
+  npx create-react-app <project-name> --template redux-typescript
+```
 ## 引入AntDesign ##
-[CMD] npm install antd --save
+``` sh
+  npm install antd --save
+```
+
+## 引入Sass ##
+``` sh
+  npm install sass
+```
