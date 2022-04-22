@@ -19,7 +19,12 @@
   npm install --save react-router-dom
 ```
 
-## 安装配置Axios
+## 安装配置Axios ##
 ``` sh
     npm install axios
+```
+
+## 配置开发环境反向代理 ##
+``` sh
+    npm install http-proxy-middleware --save
 ```
