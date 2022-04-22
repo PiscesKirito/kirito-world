@@ -13,3 +13,8 @@
 ``` sh
   npm install sass
 ```
+
+## 模块化路由 && 懒加载 ##
+``` sh
+  npm install --save react-router-dom
+```
