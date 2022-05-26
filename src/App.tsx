@@ -1,15 +1,9 @@
-import { useRoutes } from 'react-router-dom';
-import routes from './routes';
-import logo from './logo.svg';
-import './App.scss'
+import { useRoutes } from "react-router-dom";
+import routes from "./routes";
+import "./App.scss";
 
 function App() {
-  return (
-    <div className="App">
-      <img src={logo} className="App-logo" alt="logo" />
-      { useRoutes(routes) }
-    </div>
-  )
+  return <div className="App">{useRoutes(routes)}</div>;
 }
 
 export default App;
